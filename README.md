@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2 align="center">Hello my fellow data loving friends!</h2>
 
-<!--
-**haleyepperlyfox/haleyepperlyfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I'm Haley (Epperly) Fox :sunflower: Nice to meet you :smile:</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Data Analyst | National Center for Ecological Analysis and Synthesis (NCEAS)</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+**Pronouns:** *she/her/hers* 
+
+**Twitter:** [@Haley_Fox_Epp](https://twitter.com/haley_fox_epp)
+
+### :sunny: What do I do with all my time?
+
+As a data analyst at [NCEAS](https://www.nceas.ucsb.edu/), I am currently investigating the environmental justice implications of global food production. 
+
+In an effort to contribute to the wonderful world of open and reproducible data science, I've been creating tutorials on data wrangling, analysis, and visualization in R. Code and relevant data can be found on [GitHub](https://github.com/haleyepperlyfox) while published tutorials can be found on [Rpubs](https://rpubs.com/haleyepperlyfox).
+
+When I'm not staring at a screen, I'm out hiking with my dog (Moose - she's from Alaska!), biking, surfing, gardening, baking, and other lovely mostly outdoors things.
+
+### :chart_with_upwards_trend: Experience
+
+- 2022 - present: Data Analyst ([NCEAS](https://www.nceas.ucsb.edu/))
+- 2015 - 2017 & 2019 - 2022: Human Dimensions Project Assistant, Oregon Department of Fish and Wildlife ([Marine Reserves Program](https://oregonmarinereserves.com/))
+
+### :mortar_board: Education
+
+- MS (2019): Interdisciplinary Ecology ([University of Florida](https://snre.ifas.ufl.edu/))
+- BS (2015): Biology ([Oregon State University](https://ib.oregonstate.edu/))
