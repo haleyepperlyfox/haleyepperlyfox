@@ -12,7 +12,7 @@
 
 ### :sunny: What do I do with all my time?
 
-As a data scientist at [NCEAS](https://www.nceas.ucsb.edu/), I am currently investigating the environmental justice implications of global food production. 
+As a data scientist at [NCEAS](https://www.nceas.ucsb.edu/), I am currently investigating the environmental justice implications of global food production and trade. 
 
 In an effort to contribute to the wonderful world of open and reproducible data science, I've been creating tutorials on data wrangling, analysis, and visualization in R. Code and relevant data can be found on [GitHub](https://github.com/haleyepperlyfox) while published tutorials can be found on [Rpubs](https://rpubs.com/haleyepperlyfox).
 
