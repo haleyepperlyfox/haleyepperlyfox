@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Haley (Epperly) Fox :sunflower: Nice to meet you :smile:</h1>
 
-<h3 align="center">Data Analyst | National Center for Ecological Analysis and Synthesis (NCEAS)</h3>
+<h3 align="center">Data Scientist | National Center for Ecological Analysis and Synthesis (NCEAS)</h3>
 
 <br>
 
@@ -20,7 +20,7 @@ When I'm not staring at a screen, I'm out hiking with my dog (Moose - she's from
 
 ### :chart_with_upwards_trend: Experience
 
-- 2022 - present: Data Analyst ([NCEAS](https://www.nceas.ucsb.edu/))
+- 2022 - present: Data Scientist ([NCEAS](https://www.nceas.ucsb.edu/))
 - 2015 - 2017 & 2019 - 2022: Human Dimensions Project Assistant, Oregon Department of Fish and Wildlife ([Marine Reserves Program](https://oregonmarinereserves.com/))
 
 ### :mortar_board: Education
