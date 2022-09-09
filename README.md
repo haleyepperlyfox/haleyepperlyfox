@@ -8,7 +8,8 @@
 
 **Pronouns:** *she/her/hers* 
 
-**Twitter:** [@Haley_Fox_Epp](https://twitter.com/haley_fox_epp)
+**Twitter:** [@Haley_Fox_Epp](https://twitter.com/haley_fox_epp)  
+**Website** [https://haleyepperlyfox.com/](https://haleyepperlyfox.com/)
 
 ### :sunny: What do I do with all my time?
 
