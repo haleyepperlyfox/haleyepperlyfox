@@ -23,6 +23,7 @@ When I'm not staring at a screen, I'm out hiking with my dog (Moose - she's from
 
 - 2022 - present: Data Scientist ([NCEAS](https://www.nceas.ucsb.edu/))
 - 2015 - 2017 & 2019 - 2022: Human Dimensions Research Assistant, Oregon Department of Fish and Wildlife ([Marine Reserves Program](https://oregonmarinereserves.com/))
+- 2015 - 2017: Research and Scholars Program Assistant, [Oregon Sea Grant]([url](https://seagrant.oregonstate.edu/))
 
 ### :mortar_board: Education
 
