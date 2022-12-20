@@ -20,7 +20,7 @@ When I'm not staring at a screen, I'm out hiking with my dog (Moose - she's from
 ### :chart_with_upwards_trend: Experience
 
 - Dec 2022 - present | Data Scientist | [Apple](https://www.apple.com)
-- Feb 2022 - Dec 2022 | Data Scientist | [NCEAS](https://www.nceas.ucsb.edu/)
+- Feb 2022 - Dec 2022 | Data Scientist | [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/)
 - 2015 - 2017 & 2019 - 2022 | Human Dimensions Research Assistant | Oregon Department of Fish and Wildlife [Marine Reserves Program](https://oregonmarinereserves.com/)
 - 2015 - 2017 | Research and Scholars Program Assistant | [Oregon Sea Grant](https://seagrant.oregonstate.edu/)
 
